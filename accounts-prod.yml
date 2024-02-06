@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to MsiBank accounts related Prod APIs "
+  message: "Welcome to MsiBank accounts related Producion APIs "
   contactDetails:
     name: "Anil Ainarkar - Product Owner"
     email: "anil@msibank.com"
